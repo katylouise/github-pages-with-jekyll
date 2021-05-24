@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+A late starter to tech, I am a teacher turned software engineer.  Continually learning, I am currently exploring technical leadership.
