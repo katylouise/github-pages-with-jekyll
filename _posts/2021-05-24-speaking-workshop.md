@@ -1,3 +1,8 @@
+---
+title: "Public speaking workshop"
+date: 2021-05-24
+---
+
 Last week I attended a public speaking workshop with [Dylan Beattie](https://ursatile.com/workshops/from-keyboard-to-keynote.html).  It was great to be able to take time out of my day-to-day to focus on developing a skill like this.  In previous jobs, there either hasn't been the time or the money to do workshops like this, so I am definitely making the most of all the opportunities which are available to me at the MoJ.
 
 Each day, we spent an hour or two working through some theory and tips from Dylan, followed by time to prepare and give our own talks.  We then got feedback on what others thought about our talk plus suggestions on how we could improve it.  We also got a recording of our talk so we could watch ourselves back and see how we actually did!  I had never thought of videoing (or taping) myself talking before.  Although it is a bit uncomfortable to watch, I found it made it easier to see where I needed to improve.  When I'm talking, the time goes so quickly, and I can never really remember how it went, so I found this very helpful and is definitely something I would try again.
